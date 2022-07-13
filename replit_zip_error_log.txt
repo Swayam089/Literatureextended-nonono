@@ -1,0 +1,5 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/gatling","time":"2022-07-13T17:09:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2022-07-13T17:09:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/newrelic-naming-rules","time":"2022-07-13T17:09:37Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/newrelic/node_modules/.bin/semver","time":"2022-07-13T17:09:38Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/unblocker/node_modules/.bin/mime","time":"2022-07-13T17:09:38Z"}
